@@ -1,14 +1,16 @@
 # WhatsApp rooms and operating rhythm (DRAFT)
 
-Use **one WhatsApp Community**, beginning with just five groups:
+The **existing RED MIST WhatsApp Community has seven groups** as shown in screenshots on 17 October 2026. Use their current names; do not recreate or delete them just to match a diagram. Exact paste-ready text and admin checklist: [Gate 01 activation kit](WHATSAPP_GATE_01_ACTIVATION.md).
 
-| Group | Job |
+| Existing group | Job |
 | --- | --- |
-| 00 • SIGNAL / ANNOUNCEMENTS | Admin announcements, schedule and deadlines |
-| 01 • THE BUILD FLOOR | Constructive conversation, #INTRO, #WIN, #ASK |
-| 02 • MISSIONS & TEAMS | #MISSION briefs, team roles, scoped collaboration |
-| 03 • HELP DESK / LEARNING | Specific coding, design, product and business questions |
-| 04 • BUILD TABLES / EVENTS | Online sessions, RSVP, accessible public-venue meetups |
+| Announcements | Official RED MIST policy, logistics and deadlines; administrators only |
+| SIGNAL | Verified external opportunities, events and programmes; curated |
+| General | Welcome, #INTRO and general conversation; Community Code already pinned |
+| BUILD FLOOR | #COMMIT, #UNBLOCK, #PROVE, progress demonstrations |
+| MISSIONS & TEAMS | Project briefs, role matching and scoped collaboration |
+| HELP DESK | Coding, design, learning and business questions |
+| BUILD TABLES / EVENTS | Scheduled sessions, RSVP, accessible safe public-venue meetups |
 
 Create mission-specific private chats only when a real team is active. Do not start ten empty rooms. Pin the conduct rules, first task, website, help route and privacy disclosure. Limit unreviewed invite distribution; disclose phone-number visibility before optional group invitations.
 
